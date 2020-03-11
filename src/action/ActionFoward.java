@@ -12,7 +12,7 @@ import lombok.Setter;
 @Setter
 
 
-public class ActionFoward implements Action {
+public class ActionFoward {
 	private String path;
 	private boolean redirect;
 }
